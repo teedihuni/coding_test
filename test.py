@@ -1,3 +1,5 @@
-test = [0,1,2,3,4]
-new = sorted(test,reverse=True)
-print(new)
+a = input()
+
+b = [int(i) for i in a]
+
+print(b)
